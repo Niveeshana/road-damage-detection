@@ -1,0 +1,607 @@
+{
+    "pipeline_version": "week3-v1",
+    "generated_at_utc": "2026-11-11T13:26:28.111208+00:00",
+    "dataset": "RDD2022",
+    "records": [
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000008.jpg",
+            "source_sha256": "a9754681705e659d7ba568ce813d40029bf4bb8cdd24bca88df510cb94bd3b46",
+            "prepared_output": "data/processed/images/China_Drone_000008.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000017.jpg",
+            "source_sha256": "2abb3934ce63517a0c90e5da2d70c1ffad6d057dafca6b22dcdc7ba68f4d1f2e",
+            "prepared_output": "data/processed/images/China_Drone_000017.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000040.jpg",
+            "source_sha256": "2d09975652374884727a4aceeb31d7ce30582bea018aff1ea803f13ffd35a4f4",
+            "prepared_output": "data/processed/images/China_Drone_000040.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000052.jpg",
+            "source_sha256": "143b125b044fc4fa7b74b75ef7ee13bece7e4a3d9c72cfdf65f4d8253033e6b0",
+            "prepared_output": "data/processed/images/China_Drone_000052.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000053.jpg",
+            "source_sha256": "7a270d307107af848932e8402db818e884754b0c7bdd5e971162601f119d6a05",
+            "prepared_output": "data/processed/images/China_Drone_000053.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000075.jpg",
+            "source_sha256": "6eeaeaa97e9a730240fc5d8d14d412aff73557bcc0547b669505f3362b522829",
+            "prepared_output": "data/processed/images/China_Drone_000075.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000085.jpg",
+            "source_sha256": "7582014744df1e1063d2ea0a44fec0b599a0cb5a01ea53a26ee0d9ea3e9f139b",
+            "prepared_output": "data/processed/images/China_Drone_000085.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000092.jpg",
+            "source_sha256": "9c2e8effba71eeaf1542b647178fcb9d76d828f8f3965e270bff02d86f63fb7c",
+            "prepared_output": "data/processed/images/China_Drone_000092.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000096.jpg",
+            "source_sha256": "3410caee13d4be1529dd3324b5429f3894de7ce05dc9cf6afae1f15e73b6d1a7",
+            "prepared_output": "data/processed/images/China_Drone_000096.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000098.jpg",
+            "source_sha256": "01e54330d7ae1414028cb040a124a5b96f876401b44725932ede7590a145e4ec",
+            "prepared_output": "data/processed/images/China_Drone_000098.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000099.jpg",
+            "source_sha256": "5aa12dc25d9a4037e66f37977534680ec6b41cc6306d049e0936759f1202625a",
+            "prepared_output": "data/processed/images/China_Drone_000099.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000101.jpg",
+            "source_sha256": "1c2bbef6ed1e4bd3476d73f405a0b76e01cf445777b17ac3fc673fa16ca5685e",
+            "prepared_output": "data/processed/images/China_Drone_000101.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000109.jpg",
+            "source_sha256": "18adcd381fe492da1001eba8d1dec36c8a439154a5fd4c199b6bb982db7ca108",
+            "prepared_output": "data/processed/images/China_Drone_000109.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000116.jpg",
+            "source_sha256": "6e9b5142312b6a09eee911a6bfb99a64d4f7e89f49ed55c4adc306391859b93e",
+            "prepared_output": "data/processed/images/China_Drone_000116.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000119.jpg",
+            "source_sha256": "b386348b7aa0e616da90738e40041dc0a3693746bcc1e231dc27e6965341ae8a",
+            "prepared_output": "data/processed/images/China_Drone_000119.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000121.jpg",
+            "source_sha256": "3f6e9054c97787496f5b60b12cf7d32b4f345e5756f4c07275e2126e61e4313e",
+            "prepared_output": "data/processed/images/China_Drone_000121.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000127.jpg",
+            "source_sha256": "fb6b8d1aed304f6052c66a410ec3f57c3c999928ef1226c08d47894742d6e4eb",
+            "prepared_output": "data/processed/images/China_Drone_000127.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000128.jpg",
+            "source_sha256": "22ec7b588915cdf9fd4d24a0a8bcc0226380ae1e435c61fa561a83d1be3e13e5",
+            "prepared_output": "data/processed/images/China_Drone_000128.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000150.jpg",
+            "source_sha256": "dbd5a323a6760687dcfaec808361638bcabcff701910c963079f659899db3766",
+            "prepared_output": "data/processed/images/China_Drone_000150.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000176.jpg",
+            "source_sha256": "9fe3e3879deadacebbeabd49babf96ca3c1c797e94a469377b5cd9702e31a364",
+            "prepared_output": "data/processed/images/China_Drone_000176.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000177.jpg",
+            "source_sha256": "9171bd79cfd3e871b6cac8080381d483e9a0e7862459f3e4e974138b40560eff",
+            "prepared_output": "data/processed/images/China_Drone_000177.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000182.jpg",
+            "source_sha256": "9b139ec958e45b903d34ed4981c316db9c42da3ff5a6e4ece7c18b6d6c17114e",
+            "prepared_output": "data/processed/images/China_Drone_000182.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000186.jpg",
+            "source_sha256": "1255032f00c3102d9c7fe0d3fde04752bc87030a932292ff44c1f3a990246dc7",
+            "prepared_output": "data/processed/images/China_Drone_000186.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000214.jpg",
+            "source_sha256": "e193364749e224a27064460cc91108cb36ebdffc381e9695965868217c3829e5",
+            "prepared_output": "data/processed/images/China_Drone_000214.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000216.jpg",
+            "source_sha256": "d6813f23482b537815539eb983a3ba9f96a64f6f3a08b16555e956f077388729",
+            "prepared_output": "data/processed/images/China_Drone_000216.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000217.jpg",
+            "source_sha256": "ad5542c1c6e62ed0f7262772cadd0666329ea6cd3d09f4199939446ce24f5bcd",
+            "prepared_output": "data/processed/images/China_Drone_000217.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000222.jpg",
+            "source_sha256": "2feaa06abd011e3027f581afea07349e30e0d4fc513773ed443b2d4be3ae1b98",
+            "prepared_output": "data/processed/images/China_Drone_000222.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000241.jpg",
+            "source_sha256": "99cda05cfa201bed487e8e94ae878f09769b9734406a4feb73925767b580b788",
+            "prepared_output": "data/processed/images/China_Drone_000241.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000243.jpg",
+            "source_sha256": "75bb8b4b99d7b07ab75131c7916f8e0691d5daab10ded25d08424529ad168e6c",
+            "prepared_output": "data/processed/images/China_Drone_000243.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000262.jpg",
+            "source_sha256": "89d1ce25bdf3e238f15d36e49de1bf21fbe5b36253527853dbf404d09953b740",
+            "prepared_output": "data/processed/images/China_Drone_000262.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000263.jpg",
+            "source_sha256": "3612cb5b979db1f7bc107f56fc381d4c141760d201127e93a73a314838dc3e61",
+            "prepared_output": "data/processed/images/China_Drone_000263.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000264.jpg",
+            "source_sha256": "24e8f220b763853355c83dee08fac957176d79ed4fd5c598ad39a8a3fe09ce22",
+            "prepared_output": "data/processed/images/China_Drone_000264.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000266.jpg",
+            "source_sha256": "fc68098458328804fe462b950189bcb9486df3a7f1eb505b992ed546765314e6",
+            "prepared_output": "data/processed/images/China_Drone_000266.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000268.jpg",
+            "source_sha256": "da2485cc35936fc9492197ea2c8d48765b5346101f72a5b60348ce52109788fd",
+            "prepared_output": "data/processed/images/China_Drone_000268.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000272.jpg",
+            "source_sha256": "a4e8d31fe839fd2c79de017ddb6a507dcfc897450c96ccd69fbe4199b96753a0",
+            "prepared_output": "data/processed/images/China_Drone_000272.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000273.jpg",
+            "source_sha256": "08ed80cf01cb57a653c77b9669a9c8e3d91882034a32d8bba7d3afa314942305",
+            "prepared_output": "data/processed/images/China_Drone_000273.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000277.jpg",
+            "source_sha256": "1a2d861cd66582c38bee26d83d0e4aa08e650c5a568b7a0eb8ad4102565965a9",
+            "prepared_output": "data/processed/images/China_Drone_000277.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000278.jpg",
+            "source_sha256": "cac6345bd0c4a148e14c4c69d53fa5eb435805ad6d8932046d9c101625c8cfb6",
+            "prepared_output": "data/processed/images/China_Drone_000278.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000286.jpg",
+            "source_sha256": "8fc504e43b86c1587274a9e75796b0b9244dc5c3c52ea8834a6354bbb556a2e8",
+            "prepared_output": "data/processed/images/China_Drone_000286.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000288.jpg",
+            "source_sha256": "ddb6c23a9123d2784347b9d63f90d951df60ddfbd9195f4f454b4a341d80f28c",
+            "prepared_output": "data/processed/images/China_Drone_000288.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000290.jpg",
+            "source_sha256": "ff4af91a4ffefee0ba03eb7d0a7c10d2102dfd88a00fea261e50fd8aaaa26709",
+            "prepared_output": "data/processed/images/China_Drone_000290.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000297.jpg",
+            "source_sha256": "a4db54e46e3e20083c4864bcf4bcda7d412e7bdbfa0c184a41399944a24e9bd3",
+            "prepared_output": "data/processed/images/China_Drone_000297.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000311.jpg",
+            "source_sha256": "3e77bc1ca99b13acfdfb086f298a1153a73646ad2cc47d32a74385abc157f908",
+            "prepared_output": "data/processed/images/China_Drone_000311.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000314.jpg",
+            "source_sha256": "face4593ead1b3e9ce0e0c220e630623e960a67edcfcf195c28d3c72a720e4fb",
+            "prepared_output": "data/processed/images/China_Drone_000314.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000323.jpg",
+            "source_sha256": "c9162e4138a85ae4036f1cf79f4d8425dcbdeb54af9f3bcbbac8839955a9c6da",
+            "prepared_output": "data/processed/images/China_Drone_000323.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000330.jpg",
+            "source_sha256": "d564731a056ce88aedc100ed9758428613d6773f88fd8c758fe7f9f5d6b0f799",
+            "prepared_output": "data/processed/images/China_Drone_000330.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000334.jpg",
+            "source_sha256": "31aa1fb5b3787c69302357ceaadeb0f72fa3bc44d1a62f6a195fb9fbd63dc410",
+            "prepared_output": "data/processed/images/China_Drone_000334.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000341.jpg",
+            "source_sha256": "c093fc3badf19a33fc988d040309e1fcbdcf46433118c5e2194df9d266d7e554",
+            "prepared_output": "data/processed/images/China_Drone_000341.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000343.jpg",
+            "source_sha256": "4a501f2e70d35c01ee571d3578fcabadbe372bf12d1109f4333e4103779e286a",
+            "prepared_output": "data/processed/images/China_Drone_000343.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000344.jpg",
+            "source_sha256": "84b5611505e4df5262b1cb3490dc9a78aa2667193846b84334a747d96037cc6f",
+            "prepared_output": "data/processed/images/China_Drone_000344.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000346.jpg",
+            "source_sha256": "22e144ff894612fcfde80a7ba0adafff87e8ca8aba4a0a65f1f23784536d9362",
+            "prepared_output": "data/processed/images/China_Drone_000346.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000348.jpg",
+            "source_sha256": "84c1acb3bbe95d03dd67aa0db87f9ce965925c1d921dfad0396d78a4279fac22",
+            "prepared_output": "data/processed/images/China_Drone_000348.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000351.jpg",
+            "source_sha256": "a09746919445bf86869aa05a5cd71aa89a3ffcfbd71585dc50fb8c7bf6de0118",
+            "prepared_output": "data/processed/images/China_Drone_000351.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000359.jpg",
+            "source_sha256": "335611da96d71bb8b97985277ad326e0d272ecca1699cd888053dfb9c952d1cc",
+            "prepared_output": "data/processed/images/China_Drone_000359.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000361.jpg",
+            "source_sha256": "a2f9e6bf01d2b552b3dbeddd325c09f863ef2e958890f9dd260f6af302a56bec",
+            "prepared_output": "data/processed/images/China_Drone_000361.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000380.jpg",
+            "source_sha256": "69b0a7594264f1a0a664b0c7de8f4907fe9725fd46f75d90dac67bbb0c75291a",
+            "prepared_output": "data/processed/images/China_Drone_000380.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000383.jpg",
+            "source_sha256": "78936d8ed7e887c55cc1e3c7f4963c7b4d401778d9fabc0cd4324ec0da2536eb",
+            "prepared_output": "data/processed/images/China_Drone_000383.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000401.jpg",
+            "source_sha256": "63631397cb10412dfbe0ed7e2b41d5e1a37199f7f43251e5d8e82d0f8a254045",
+            "prepared_output": "data/processed/images/China_Drone_000401.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000408.jpg",
+            "source_sha256": "25041120467e6ac83b313e4ea3995abf468c23683a59af8cd3ca1e1c933001ec",
+            "prepared_output": "data/processed/images/China_Drone_000408.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000416.jpg",
+            "source_sha256": "e51c6ba3c33df46b541faf8f43b2a16b93acf4b61f313914197ceb1389f7b15f",
+            "prepared_output": "data/processed/images/China_Drone_000416.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000423.jpg",
+            "source_sha256": "5fdcb74f7631f27697bbef6af5dfdbd486a16a56ced0e59bd5fc4b10b425e358",
+            "prepared_output": "data/processed/images/China_Drone_000423.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000431.jpg",
+            "source_sha256": "aa4cbbf897d65eda0f0c3e732772e9dbcd45866e06d2be62acc59cdd62ff4ce7",
+            "prepared_output": "data/processed/images/China_Drone_000431.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000438.jpg",
+            "source_sha256": "82d3381788aaa3691390e6abbf53501076a8b1e4ca346839269373beac54e4c5",
+            "prepared_output": "data/processed/images/China_Drone_000438.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000451.jpg",
+            "source_sha256": "0d8e2e6719e7ff4fd262324e38010ba504374428a1173d1da496a18e43dad2ba",
+            "prepared_output": "data/processed/images/China_Drone_000451.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000457.jpg",
+            "source_sha256": "a26c54ab787e475da5056957ec3069671402102a1b1c0298cbf0e6bae77e5a49",
+            "prepared_output": "data/processed/images/China_Drone_000457.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000459.jpg",
+            "source_sha256": "7abde107ad566a16d47750e90250170cf6692c2b2d5f20ed864af2003bb82dff",
+            "prepared_output": "data/processed/images/China_Drone_000459.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000460.jpg",
+            "source_sha256": "78a22f750f654904341b3cea8736330c1469f0dc3c19d056b27ae328e907d0a6",
+            "prepared_output": "data/processed/images/China_Drone_000460.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000465.jpg",
+            "source_sha256": "8d4d6b2068ad2b3f40538b84e01362a47b18d0e9a596ce7f8205f30135c17e49",
+            "prepared_output": "data/processed/images/China_Drone_000465.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000470.jpg",
+            "source_sha256": "a638a4e554518fb10f56a898de79bdaf902d408edc17434e03ac5a7576c4bfe1",
+            "prepared_output": "data/processed/images/China_Drone_000470.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000474.jpg",
+            "source_sha256": "c77a75748f9d357b7c62724a14fc3657019ba390f2b4fec4ea975880fc9d88c4",
+            "prepared_output": "data/processed/images/China_Drone_000474.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000475.jpg",
+            "source_sha256": "eee00c956c21c4b8ac98e72efce892e1e2b99fe9241c653dfde43cc0124d606d",
+            "prepared_output": "data/processed/images/China_Drone_000475.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000479.jpg",
+            "source_sha256": "80ad2aa64720ebce23b99df5df091951106b0741a970fff29147ea2083cc3074",
+            "prepared_output": "data/processed/images/China_Drone_000479.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000480.jpg",
+            "source_sha256": "3bfbd5825b0266223465dea385071adce2eaf4e000c8ec960b8b0524d6675eb7",
+            "prepared_output": "data/processed/images/China_Drone_000480.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000487.jpg",
+            "source_sha256": "74072deed261b0c02f7fcf321c56d2a4300905bf92e1c15e790d19876d526303",
+            "prepared_output": "data/processed/images/China_Drone_000487.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000491.jpg",
+            "source_sha256": "7530b06b276ec3d5a2ea927fd3b3e9fbf27b2be66eb041597ddb6dcaef4a04df",
+            "prepared_output": "data/processed/images/China_Drone_000491.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000499.jpg",
+            "source_sha256": "e4674095bdfc12f51d7cac7f9a28a52f2b71e78e3fb95bed005f2e514372a9df",
+            "prepared_output": "data/processed/images/China_Drone_000499.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000505.jpg",
+            "source_sha256": "3186608bdfce33451195c7f2fe37e8b13d96b43a05abcbc8f2316d63f1610c5b",
+            "prepared_output": "data/processed/images/China_Drone_000505.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000509.jpg",
+            "source_sha256": "ddda20d246fb4eab3bcffe7c55aee5258199acc508166a45e4a72b1b727b3e23",
+            "prepared_output": "data/processed/images/China_Drone_000509.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000513.jpg",
+            "source_sha256": "ebdca750cd28f4d458e50784f57bc76997016d79755db965c487e2115b7ffca8",
+            "prepared_output": "data/processed/images/China_Drone_000513.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000516.jpg",
+            "source_sha256": "488fc05551358ba8cdeebd56b1f75c2ae8fae991fb8ec21651c6c8c24cf57b88",
+            "prepared_output": "data/processed/images/China_Drone_000516.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000517.jpg",
+            "source_sha256": "b06d3f027165fa5b89f4f01f28d65d6779c78f26fca9b92dc42231dd765a825e",
+            "prepared_output": "data/processed/images/China_Drone_000517.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000538.jpg",
+            "source_sha256": "163260053e82c19f4095ea60dad44f72e0083bd302be96bf7883562c31615a9c",
+            "prepared_output": "data/processed/images/China_Drone_000538.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000549.jpg",
+            "source_sha256": "bf6d1128e87435fe56005121260374079555dbd8afe7b6628a31d73bb8d998a3",
+            "prepared_output": "data/processed/images/China_Drone_000549.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000550.jpg",
+            "source_sha256": "327245567ce0c0736643657809af83a1f677c3ceb86a0c38d47bee501bd18c1e",
+            "prepared_output": "data/processed/images/China_Drone_000550.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000566.jpg",
+            "source_sha256": "cd8670da1a36adc07e2ac1bd1e87260a6fcb99944c5ad2fc601234d7ff1dd1ad",
+            "prepared_output": "data/processed/images/China_Drone_000566.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000572.jpg",
+            "source_sha256": "ca4f787ed867a370899c91da742c9c7cd45a1d270a893eff2e189106a9143fb8",
+            "prepared_output": "data/processed/images/China_Drone_000572.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000593.jpg",
+            "source_sha256": "b39018c9a7949890556c6964b2787c54573c63aa728f944a7857e742d9d20da8",
+            "prepared_output": "data/processed/images/China_Drone_000593.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000596.jpg",
+            "source_sha256": "3b743fe4582c77bd988e878f5b0397910246d829407088e791e4c3eda6fc8bfe",
+            "prepared_output": "data/processed/images/China_Drone_000596.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000607.jpg",
+            "source_sha256": "02365af46829da6f29cf82557dcd3de1e7b1a8bcb1a1e7e5d68c26e19583589e",
+            "prepared_output": "data/processed/images/China_Drone_000607.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000608.jpg",
+            "source_sha256": "529237cbb3cac5dc9047286b70e31c421fc2345aece3cc52f863f18f4111f416",
+            "prepared_output": "data/processed/images/China_Drone_000608.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000609.jpg",
+            "source_sha256": "b568761afead8235e5c424e0174a3a87185fe8e4d1e88a9d958cec99eb0d5ec9",
+            "prepared_output": "data/processed/images/China_Drone_000609.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000616.jpg",
+            "source_sha256": "cc008156459a271fa68a77e7e95a9f536fa0084c8cb702eb6b8f99c577ef55da",
+            "prepared_output": "data/processed/images/China_Drone_000616.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000621.jpg",
+            "source_sha256": "709b40685befb33d54eb200133f3c97e4ca0fdfb4861988003e40c9938b82523",
+            "prepared_output": "data/processed/images/China_Drone_000621.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000622.jpg",
+            "source_sha256": "b3b19bd00895b81c58fb108175dbb41b98ba72378690f43466aa957acd8a4149",
+            "prepared_output": "data/processed/images/China_Drone_000622.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000623.jpg",
+            "source_sha256": "08935347c7447885c30eb656451287b3a7329306f76ead4074937c6611708892",
+            "prepared_output": "data/processed/images/China_Drone_000623.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000625.jpg",
+            "source_sha256": "3d309eea5f1973102dff2e1e7252ad507092f5833565322ad4f87d1629e9bde0",
+            "prepared_output": "data/processed/images/China_Drone_000625.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000626.jpg",
+            "source_sha256": "e0bda313adec423f0cf48c7f25fcce88f687838da649d4b49be57e56fe760462",
+            "prepared_output": "data/processed/images/China_Drone_000626.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000628.jpg",
+            "source_sha256": "3a59371316b1d278fe52dc52e09890d5340bf20d144bd204bc3d88ca1520d39d",
+            "prepared_output": "data/processed/images/China_Drone_000628.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000629.jpg",
+            "source_sha256": "6ba15fee8fe9b36da30104af3739962bfdaf9e01f510746b6d7e297db429ef9e",
+            "prepared_output": "data/processed/images/China_Drone_000629.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        },
+        {
+            "source": "RDD_SPLIT/test/images/China_Drone_000631.jpg",
+            "source_sha256": "0f46e9584eaed7067cac930a75ea29157d98c1273da212d41c9fa946a7444b33",
+            "prepared_output": "data/processed/images/China_Drone_000631.png",
+            "processing": "RGB conversion; original dimensions preserved"
+        }
+    ]
+}
